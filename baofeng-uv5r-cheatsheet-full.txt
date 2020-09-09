@@ -1,3 +1,16 @@
+# Baofeng UV-5R Cheatsheet
+
+## Valid for
+* UV-5R
+* ...Probably others?...
+
+## Useful Accessories
+
+### Antenna's
+
+### Batterys, Power, and Charging
+
+### USB Programming Cables
 
 ## List of UV-5R Menus
 | Commonly Used | Menu Item | Menu Name | Description |
@@ -110,3 +123,5 @@ Press *MENU* 27 *MENU* *enter the same memory channel entered in step 12* *MENU*
 
 ### How to manually program a simplex channel
 
+## Useful Guides
+* https://miro.cmivolunteers.org/wp-content/uploads/2018/07/BaoFeng-UV5R-F8HP.pdf
