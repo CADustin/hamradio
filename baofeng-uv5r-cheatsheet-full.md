@@ -1,8 +1,8 @@
 # Baofeng UV-5R Cheatsheet
 
 ## Valid for
-* UV-5R
-* ...Probably others?...
+** UV-5R
+** ...Probably others?...
 
 ## Useful Accessories
 
@@ -60,59 +60,59 @@
 ## Programming the Radio
 
 ### How to manually program a simplex channel
-1. Press *VFO/MR* and enter Frequency Mode.
-2. Press *A/B* and choose the A Side (upper display).
+1. Press **VFO/MR** and enter Frequency Mode.
+2. Press **A/B** and choose the A Side (upper display).
 The A side must be used to program channels into the radio. Programming data entered on the B Side (lower display) will not be saved.
-3. Press *BAND* for the frequency band.
-Toggle *BAND* to choose 136 MHz (VHF) or 470 MHz (UHF).
+3. Press **BAND** for the frequency band.
+Toggle **BAND** to choose 136 MHz (VHF) or 470 MHz (UHF).
 If the incorrect band is chosen for the frequency entered in Step 5, the radio will cancel the operation.
 4. Disable TDR (Dual Watch/Dual Standby).
-Press *MENU* 7 *MENU* *press up/down arrow keys* OFF *MENU* *EXIT*
+Press **MENU** 7 **MENU** **press up/down arrow keys** OFF **MENU** **EXIT**
 It is highly advised to turn TDR off when programming directly from the radio.
 5. Enter the frequency.
 Use the keypad to enter the frequency into the radio.
 6. optional - Enter the transmit CTCSS/DCS code.
-* CTCSS - *MENU* 13 *MENU* *enter/choose code XXXX* *MENU* *EXIT*
-* DCS - *MENU* 12 *MENU* *choose code XXXXX* *MENU* *EXIT*
+** CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
+** DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
 7. Assign the frequency to a channel.
-*MENU* 27 *MENU* *enter channel number XXX* *MENU* *EXIT*
+**MENU** 27 **MENU** **enter channel number XXX** **MENU** **EXIT**
 (Source)[https://www.buytwowayradios.com/blog/2016/08/how_to_manually_program_the_baofeng_uv-5r_from_the_keypad.html]
 
 ### How to manually program a repeater channel
-1. Press *VFO/MR* and enter Frequency Mode.
-2. Press *A/B* and choose the A Side (upper display).
+1. Press **VFO/MR** and enter Frequency Mode.
+2. Press **A/B** and choose the A Side (upper display).
 the simplex channels, the A side must be used to program the repeater channels into the radio. Programming data entered on the B Side (lower display) will not be saved.
-3. Press *BAND* for the frequency band
-Toggle *BAND* to choose 136 MHz (VHF) or 470 MHz (UHF).
+3. Press **BAND** for the frequency band
+Toggle **BAND** to choose 136 MHz (VHF) or 470 MHz (UHF).
 If the incorrect band is chosen for the frequency entered in Step 6, the radio will cancel the operation.
 4. optional - Clear any CTCSS/DCS codes previously assigned to the channel.
 If no previous codes exist or when setting up the channel for the first time and no codes are needed, set the menu items listed below to OFF.
-* RX DCS - *MENU* 10 *MENU* *enter 0 (OFF)* *MENU* *EXIT*
-* RX CTCSS - *MENU* 11 *MENU* *enter 0 (OFF)* *MENU* *EXIT*
-* TX DCS - *MENU* 12 *MENU* *enter 0 (OFF)* *MENU* *EXIT*
-* TX CTCSS - *MENU* 13 *MENU* *enter 0 (OFF)* *MENU* *EXIT*
+* RX DCS - **MENU** 10 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+* RX CTCSS - **MENU** 11 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+* TX DCS - **MENU** 12 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+* TX CTCSS - **MENU** 13 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
 5. Disable TDR (DualWatch/Dual Standby).
-Press *MENU* 7 *MENU* *press up/down arrow keys* OFF *MENU* *EXIT*
+Press **MENU** 7 **MENU** **press up/down arrow keys** OFF **MENU** **EXIT**
 It is highly advised to turn TDR off when programming directly from the radio.
 6. optional - Delete any existing data on the channel to program.
 Skip this step when setting up the channel for the first time.
-Press *MENU* 28 *press up/down arrow keys to choose channel number* *MENU* *EXIT*
+Press **MENU** 28 **press up/down arrow keys to choose channel number** **MENU** **EXIT**
 It is highly advised to turn TDR off when programming directly from the radio.
 7. Enter the repeater output (your receiving) frequency.
 Use the keypad to enter the frequency into the radio.
 8. Input the repeater frequency offset.
-Press *MENU* 26 *MENU* *enter the offset for 2 meter or 70 cm repeater* *MENU* *EXIT*
+Press **MENU** 26 **MENU** **enter the offset for 2 meter or 70 cm repeater** **MENU** **EXIT*
 9. Enter the Transmit Frequency Shift.
-Press *MENU* 25 *MENU* *enter 1 for positive shift or 2 for negative shift* *MENU**EXIT*
+Press **MENU** 25 **MENU** **enter 1 for positive shift or 2 for negative shift** **MENU** **EXIT**
 10. optional - Enter the transmit CTCSS/DCS code.
-* CTCSS - *MENU* 13 *MENU* *enter/choose code XXXX* *MENU* *EXIT*
-* DCS - *MENU* 12 *MENU* *choose code XXXXX* *MENU* *EXIT*
+* CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
+* DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
 11. Assign the receive frequency entered in Step 7 to the channel.
-*MENU* 27 *MENU* *enter channel number XXX* *MENU* *EXIT*
-12. Press the \**Scan* button to activate Reverse Mode and display the transmit frequency.
+**MENU** 27 **MENU** **enter channel number XXX** **MENU** **EXIT**
+12. Press the ***\*Scan*** button to activate Reverse Mode and display the transmit frequency.
 13. Assign the transmit frequency to the channel.
-Press *MENU* 27 *MENU* *enter the same memory channel entered in step 12* *MENU* *EXIT*
-14. Press the \**Scan* button to exit Reverse Mode.
+Press **MENU** 27 **MENU** **enter the same memory channel entered in step 12** **MENU** **EXIT**
+14. Press the \**Scan** button to exit Reverse Mode.
 (Source)[https://www.buytwowayradios.com/blog/2016/08/how_to_manually_program_the_baofeng_uv-5r_from_the_keypad.html]
 
 ## Programming Examples
@@ -124,4 +124,4 @@ Press *MENU* 27 *MENU* *enter the same memory channel entered in step 12* *MENU*
 ### How to manually program a simplex channel
 
 ## Useful Guides
-* https://miro.cmivolunteers.org/wp-content/uploads/2018/07/BaoFeng-UV5R-F8HP.pdf
+** https://miro.cmivolunteers.org/wp-content/uploads/2018/07/BaoFeng-UV5R-F8HP.pdf
