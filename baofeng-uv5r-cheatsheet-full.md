@@ -72,6 +72,7 @@ It is highly advised to turn TDR off when programming directly from the radio.
 5. Enter the frequency.
 Use the keypad to enter the frequency into the radio.
 6. optional - Enter the transmit CTCSS/DCS code.
+
 ** CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
 ** DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
 7. Assign the frequency to a channel.
@@ -101,7 +102,7 @@ It is highly advised to turn TDR off when programming directly from the radio.
 7. Enter the repeater output (your receiving) frequency.
 Use the keypad to enter the frequency into the radio.
 8. Input the repeater frequency offset.
-Press **MENU** 26 **MENU** **enter the offset for 2 meter or 70 cm repeater** **MENU** **EXIT*
+Press **MENU** 26 **MENU** **enter the offset for 2 meter or 70 cm repeater** **MENU** **EXIT**
 9. Enter the Transmit Frequency Shift.
 Press **MENU** 25 **MENU** **enter 1 for positive shift or 2 for negative shift** **MENU** **EXIT**
 10. optional - Enter the transmit CTCSS/DCS code.
