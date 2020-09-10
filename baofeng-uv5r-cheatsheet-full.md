@@ -1,8 +1,10 @@
 # Baofeng UV-5R Cheatsheet
 
 ## Valid for
-** UV-5R
-** ...Probably others?...
+* UV-5R
+* UV-5R+
+* BF-8HP
+* ...Probably others?...
 
 ## Useful Accessories
 
