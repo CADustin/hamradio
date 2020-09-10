@@ -7,10 +7,15 @@
 ## Useful Accessories
 
 ### Antenna's
+* (NA-771 15.6-Inch Whip VHF/UHF (144/430Mhz) Antenna)[https://www.amazon.com/Authentic-NA-771-15-6-Inch-SMA-Female-BTECH/dp/B00KC4PWQQ/ref=sr_1_3?dchild=1&keywords=NA-771&qid=1599754810&s=electronics&sr=1-3] -- If I'm going to use a long antenna on my radio and I don't care about the storage space, this is what I'll use. I carried one for a very long time, using it in the car, and hiking through the Sierra's. I was never disappointed with this antenna's capabilities.
+* (NA-771R 16-Inch Retractable VHF/UHF (144/430Mhz) Dual Band Antenna)[https://www.amazon.com/gp/product/B075XS66YC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1] -- This is a newer antenna to me, still an NA-771, but it's retractable making it an interesting choice for situations where the constraints prevent me from using a regular NA-771. 
 
 ### Batterys, Power, and Charging
+* (BL-5 3800mAh Extended Battery)[https://www.amazon.com/Baofeng-Batteries-Compatible-Rechargeable-Mirkit/dp/B07MNTFD4P/] -- If I am worried about the space / weight and I dont need runtime, the standard battery is fine... However, if I need runtime and I plan to recharge using the USB Cable, these batterys are an amazing accessory to have.
+* (Mirkit 2.5mm USB Charger Cable)[https://www.amazon.com/Mirkit-Charger-Indicator-Capacity-Batteries/dp/B084ZXTSHT/] -- This charger can be used to recharge the **3800mAh Extended Batterys** via USB. This is extremely appealing if you think you may need to recharge your battery via a USB Battery Pack or in the car in some other emergency. Yes, there are other charging options like a DC Charger, AC Adapter, etc... but, when you consider the space used and the near universal capabilities, I have decided to only carry these cables.
 
 ### USB Programming Cables
+* (Mirkit USB FTDI Programming Cable Model 3)[https://www.amazon.com/gp/product/B07MQVJLZ4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1] -- I've tried quite a few programming cables for the Baofeng radios and this seems to be the most robustly designed, and easiest to use cable. Some of the other FTDI cables seem to take some fiddling with to get them to work and can take 20+ minutes to get working for the first time. This cable from Mirkit really was plug and play.
 
 ## List of UV-5R Menus
 | Commonly Used | Menu Item | Menu Name | Description |
