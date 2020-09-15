@@ -69,9 +69,9 @@
 ### Listen to an FM Radio Station
 1. Press **CALL** on the left hand side.
 2. There are 3 ways to set the station that you'll listen to
-* Enter the FM Frequency you want to listen to.
-* Pressing the **UP** or **DOWN** arrows will change the frequency by +/- 100 Hz
-* Pressing the **SCAN** button (below the EXIT button)
+  * Enter the FM Frequency you want to listen to.
+  * Pressing the **UP** or **DOWN** arrows will change the frequency by +/- 100 Hz
+  * Pressing the **SCAN** button (below the EXIT button)
 
 ### How to manually program a simplex channel
 1. Press **VFO/MR** and enter Frequency Mode.
@@ -86,11 +86,10 @@ It is highly advised to turn TDR off when programming directly from the radio.
 5. Enter the frequency.
 Use the keypad to enter the frequency into the radio.
 6. optional - Enter the transmit CTCSS/DCS code.
+  * CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
+  * DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
+7. Assign the frequency to a channel. **MENU** 27 **MENU** **enter channel number XXX** **MENU** **EXIT**
 
-** CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
-** DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
-7. Assign the frequency to a channel.
-**MENU** 27 **MENU** **enter channel number XXX** **MENU** **EXIT**
 [Source](https://www.buytwowayradios.com/blog/2016/08/how_to_manually_program_the_baofeng_uv-5r_from_the_keypad.html)
 
 ### How to manually program a repeater channel
@@ -102,10 +101,10 @@ Toggle **BAND** to choose 136 MHz (VHF) or 470 MHz (UHF).
 If the incorrect band is chosen for the frequency entered in Step 6, the radio will cancel the operation.
 4. optional - Clear any CTCSS/DCS codes previously assigned to the channel.
 If no previous codes exist or when setting up the channel for the first time and no codes are needed, set the menu items listed below to OFF.
-* RX DCS - **MENU** 10 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
-* RX CTCSS - **MENU** 11 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
-* TX DCS - **MENU** 12 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
-* TX CTCSS - **MENU** 13 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+  * RX DCS - **MENU** 10 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+  * RX CTCSS - **MENU** 11 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+  * TX DCS - **MENU** 12 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+  * TX CTCSS - **MENU** 13 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
 5. Disable TDR (DualWatch/Dual Standby).
 Press **MENU** 7 **MENU** **press up/down arrow keys** OFF **MENU** **EXIT**
 It is highly advised to turn TDR off when programming directly from the radio.
@@ -138,8 +137,6 @@ Press **MENU** 27 **MENU** **enter the same memory channel entered in step 12** 
 
 ### Listen to a CalFire Frequency
 Living in California, one of the really useful things about having a Ham Radio has been being able to listen to whats going on with CalFire. A useful resource for CalFire frequencies is ['Scan CalFire'](http://www.scancal.org/calfire/index.html) -- which has a listing of frequencies being used by CalFire, how the organizational structure works, etc...
-
-
 
 ### How to manually program a simplex channel
 
