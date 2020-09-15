@@ -86,8 +86,8 @@ It is highly advised to turn TDR off when programming directly from the radio.
 5. Enter the frequency.
 Use the keypad to enter the frequency into the radio.
 6. optional - Enter the transmit CTCSS/DCS code.
-  * CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
-  * DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
+     * CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
+     * DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
 7. Assign the frequency to a channel. **MENU** 27 **MENU** **enter channel number XXX** **MENU** **EXIT**
 
 [Source](https://www.buytwowayradios.com/blog/2016/08/how_to_manually_program_the_baofeng_uv-5r_from_the_keypad.html)
