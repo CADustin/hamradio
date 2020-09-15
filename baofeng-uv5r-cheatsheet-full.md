@@ -126,6 +126,7 @@ Press **MENU** 27 **MENU** **enter the same memory channel entered in step 12** 
 ## Programming Examples
 
 ### Listen to an FM Radio Station
+Living in California, one of the really useful things about having a Ham Radio has been being able to listen to whats going on with CalFire. A useful resource for CalFire frequencies is ['Scan CalFire'](http://www.scancal.org/calfire/index.html) -- which has a listing of frequencies being used by CalFire, how the organizational structure works, etc..
 
 ### Listen to a CalFire Frequency
 
