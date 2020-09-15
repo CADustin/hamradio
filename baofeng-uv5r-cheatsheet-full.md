@@ -101,10 +101,10 @@ Toggle **BAND** to choose 136 MHz (VHF) or 470 MHz (UHF).
 If the incorrect band is chosen for the frequency entered in Step 6, the radio will cancel the operation.
 4. optional - Clear any CTCSS/DCS codes previously assigned to the channel.
 If no previous codes exist or when setting up the channel for the first time and no codes are needed, set the menu items listed below to OFF.
-  * RX DCS - **MENU** 10 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
-  * RX CTCSS - **MENU** 11 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
-  * TX DCS - **MENU** 12 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
-  * TX CTCSS - **MENU** 13 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+     * RX DCS - **MENU** 10 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+     * RX CTCSS - **MENU** 11 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+     * TX DCS - **MENU** 12 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
+     * TX CTCSS - **MENU** 13 **MENU** **enter 0 (OFF)** **MENU** **EXIT**
 5. Disable TDR (DualWatch/Dual Standby).
 Press **MENU** 7 **MENU** **press up/down arrow keys** OFF **MENU** **EXIT**
 It is highly advised to turn TDR off when programming directly from the radio.
@@ -119,8 +119,8 @@ Press **MENU** 26 **MENU** **enter the offset for 2 meter or 70 cm repeater** **
 9. Enter the Transmit Frequency Shift.
 Press **MENU** 25 **MENU** **enter 1 for positive shift or 2 for negative shift** **MENU** **EXIT**
 10. optional - Enter the transmit CTCSS/DCS code.
-* CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
-* DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
+     * CTCSS - **MENU** 13 **MENU** **enter/choose code XXXX** **MENU** **EXIT**
+     * DCS - **MENU** 12 **MENU** **choose code XXXXX** **MENU** **EXIT**
 11. Assign the receive frequency entered in Step 7 to the channel.
 **MENU** 27 **MENU** **enter channel number XXX** **MENU** **EXIT**
 12. Press the ***\*Scan*** button to activate Reverse Mode and display the transmit frequency.
