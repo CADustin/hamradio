@@ -72,6 +72,8 @@
 
 
 ## Abbreviations (CW Normally)
+|  |  |  |  |  |  |  |  |
+| ----- | ----------------------- | - | ----- | --------------------------- | - | ----- | --------- |
 | AA    | All after               | - | HV    | Have                        | - | SKED  | Schedule |
 | AB    | All before              | - | HW    | How                         | - | SRI   | Sorry |
 | ABT   | About                   | - | LID   | A poor operator             | - | SSB   | Single Side Band |
