@@ -69,9 +69,9 @@
 ### Listen to an FM Radio Station
 1. Press **CALL** on the left hand side.
 2. There are 3 ways to set the station that you'll listen to
-  * Enter the FM Frequency you want to listen to.
-  * Pressing the **UP** or **DOWN** arrows will change the frequency by +/- 100 Hz
-  * Pressing the **SCAN** button (below the EXIT button)
+     * Enter the FM Frequency you want to listen to.
+     * Pressing the **UP** or **DOWN** arrows will change the frequency by +/- 100 Hz
+     * Pressing the **SCAN** button (below the EXIT button)
 
 ### How to manually program a simplex channel
 1. Press **VFO/MR** and enter Frequency Mode.
