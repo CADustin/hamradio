@@ -66,6 +66,13 @@
 
 ## Programming the Radio
 
+### Listen to an FM Radio Station
+1. Press **CALL** on the left hand side.
+2. There are 3 ways to set the station that you'll listen to
+* Enter the FM Frequency you want to listen to.
+* Pressing the **UP** or **DOWN** arrows will change the frequency by +/- 100 Hz
+* Pressing the **SCAN** button (below the EXIT button)
+
 ### How to manually program a simplex channel
 1. Press **VFO/MR** and enter Frequency Mode.
 2. Press **A/B** and choose the A Side (upper display).
@@ -126,9 +133,13 @@ Press **MENU** 27 **MENU** **enter the same memory channel entered in step 12** 
 ## Programming Examples
 
 ### Listen to an FM Radio Station
-Living in California, one of the really useful things about having a Ham Radio has been being able to listen to whats going on with CalFire. A useful resource for CalFire frequencies is ['Scan CalFire'](http://www.scancal.org/calfire/index.html) -- which has a listing of frequencies being used by CalFire, how the organizational structure works, etc..
+1. Press **CALL** on the left hand side.
+2. Enter the FM Frequency Ex., 092.900
 
 ### Listen to a CalFire Frequency
+Living in California, one of the really useful things about having a Ham Radio has been being able to listen to whats going on with CalFire. A useful resource for CalFire frequencies is ['Scan CalFire'](http://www.scancal.org/calfire/index.html) -- which has a listing of frequencies being used by CalFire, how the organizational structure works, etc...
+
+
 
 ### How to manually program a simplex channel
 
